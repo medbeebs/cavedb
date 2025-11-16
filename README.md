@@ -1,5 +1,10 @@
 # cavedb
 
+![PyPI - License](https://img.shields.io/pypi/l/cavedb?style=for-the-badge)
+![PyPI - Types](https://img.shields.io/pypi/types/cavedb?style=for-the-badge)
+![PyPI - Version](https://img.shields.io/pypi/v/cavedb?style=for-the-badge)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/cavedb?style=for-the-badge)
+
 An async JSONL-based **database** with ORM bindings to Python dataclasses.
 
 Name is stylised all-lowercase.

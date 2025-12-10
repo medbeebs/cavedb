@@ -1,6 +1,6 @@
 [project]
 name = "cavedb"
-version = "1.0.1"
+version = "1.0.2"
 description = "Async JSONL-based database with ORM bindings to Python dataclasses"
 readme = "README.md"
 license = "MIT"
@@ -35,7 +35,7 @@ dependencies = [
 [project.urls]
 Homepage = "https://github.com/medbeebs/cavedb"
 Repository = "https://github.com/medbeebs/cavedb"
-Issues = "https://github.com/medbeebs/hump/cavedb"
+Issues = "https://github.com/medbeebs/cavedb/issues"
 
 [dependency-groups]
 dev = [
